@@ -8,12 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/4. Ownership/4.1. ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Ownership/4.2. references/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Ownership/4.3. slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Structures/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1. hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/2. guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/3. flow_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/4. Ownership/4.1. ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/4. Ownership/4.2. references/target" />
       <excludeFolder url="file://$MODULE_DIR$/4. Ownership/4.3. slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/5. Structures/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
